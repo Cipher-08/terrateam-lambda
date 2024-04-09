@@ -1,1 +1,0 @@
-# terrateam-lambda

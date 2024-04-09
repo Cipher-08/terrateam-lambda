@@ -1,0 +1,7 @@
+workflows:
+  - tag_query: "dir:aws"
+    plan:
+      - type: oidc
+        provider: aws
+        role_arn: "arn:aws:iam::654654366125:role/terrateam"
+ 
